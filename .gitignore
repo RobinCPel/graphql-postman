@@ -1,0 +1,8 @@
+# JetBrains stuff
+.idea
+
+# Build result
+bin
+
+# Result of gql introspection to postman conversion
+api.postman_collection.json
